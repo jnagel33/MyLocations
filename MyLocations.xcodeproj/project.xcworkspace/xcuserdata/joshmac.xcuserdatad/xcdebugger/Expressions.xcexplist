@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MyLocations.CurrentLocationViewController.prepareForSegue (MyLocations.CurrentLocationViewController)(ObjectiveC.UIStoryboardSegue, sender : Swift.Optional&lt;Swift.AnyObject&gt;) -&gt; ():CurrentLocationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "segue.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyLocations.LocationDetailsViewController.stringFromPlacemark (MyLocations.LocationDetailsViewController)(ObjectiveC.CLPlacemark) -&gt; Swift.String:LocationDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stringFromPlacemark(placemark)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
